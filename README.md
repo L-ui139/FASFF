@@ -54,7 +54,6 @@ python tracking/test.py tbsi_track vitb_256_tbsi_32x4_4e4_lasher_15ep_in1k --dat
 ### Results on LasHeR Testing Set
 
 
-```markdown
 | Model | Backbone | Pretraining | Precision | NormPrec | Success | FPS | Checkpoint |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | FASFF | ViT‑Base | SOT | 71.2 | 67.1 | 56.7 | 41 | [BaiduYun](https://pan.baidu.com/s/1RRQV9yMVO6-hBjrKcRIEBQ), pwd: `3y2f` |
