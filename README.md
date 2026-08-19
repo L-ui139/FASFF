@@ -7,7 +7,7 @@ Implementation of the paper [FASFF: Frequency Domain Information‑Aided Spatial
 ```
 conda create -n fasff python=3.8
 conda activate fasff
-bash install.sh
+bash FASFF_install.sh
 ```
 
 ## Project Paths Setup
